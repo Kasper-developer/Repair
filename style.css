@@ -1,0 +1,27 @@
+.hero {
+	background-color: #02d665;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.brand {
+	font-size: 21px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+li {
+	padding-top: 12px;
+	list-style: none;
+}
+
+.list-link {
+	color: black;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+}
